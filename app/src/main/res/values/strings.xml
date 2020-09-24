@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parayo</string>
+    <string name="open_drawer_description">open drawer</string>
+    <string name="close_drawer_description">close drawer</string>
+</resources>
